@@ -12,3 +12,5 @@ You can see how to setup it here
 https://youtu.be/fYlUDGmrom8
 
 Make the spawn above y=80 or if they are below they could place and break blocks!
+
+#THIS PROJECT IS NOT SUPPORTED ANYMORE BUT YOU CAN STILL USE THE PLUGIN AS YOU WANT.
